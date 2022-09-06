@@ -1,10 +1,10 @@
 {
 "logo": "https://telegra.ph/file/0592f028e92ff2a8e73f0.jpg",
-"name": "—••÷[🕊NORDED🕊]÷••—",
-"repository": "https://github.com/KryKnz/Vlkyre.git",
+"name": "—••÷[🕊VALKYRIE🕊]÷••—",
+"repository": "https://github.com/KraKinz/Valkyrie.git",
 "stack": "container",
 "description": "—••÷[🕊NORDED🕊]÷••—",
-"keywords": ["telegram", "voice", "pyrogram", "musicbot", "userbot"],
+"keywords": ["whatsapp", "vlkyre", "valkyrie", "musicbot", "userbot"],
 "env": {
 "HEROKU": {
 "description": "KEEP IT HEROKU!!!!!!!",
