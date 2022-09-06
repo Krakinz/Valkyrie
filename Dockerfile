@@ -26,10 +26,10 @@ RUN aptitude install python-is-python3 -y
 RUN npm install n -g && n install 16 && hash -r
 RUN curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl && curl https://cli-assets.heroku.com/install.sh | sh && heroku plugins:install heroku-builds
 RUN chmod a+rx /usr/local/bin/youtube-dl && hash -r
-RUN git clone https://github.com/KryKnz/Vlkyre.git && cd Vlkyre
-WORKDIR /Vlkyre
+RUN git clone https://github.com/KraKinz/Valkyrie.git && cd Valkyrie
+WORKDIR /Valkyrie
 RUN pip install -r ⭕𝖈𝖆𝖗𝖆.txt && npm install --force && rm package-lock.json && npm install -g spotify-dl spdl-core && npm install -g typescript 
-RUN git config --global user.name 'KryKnz' && git config --global user.email 'krakinzkon@gmail.com' && git config pull.rebase false
+RUN git config --global user.name 'KraKinz' && git config --global user.email 'krakinzklab@gmail.com' && git config pull.rebase false
 RUN git init --initial-branch=🦀𝐊𝐫𝐚𝐛𝐲  && git fetch origin 🦀𝐊𝐫𝐚𝐛𝐲  && git reset --hard origin/🦀𝐊𝐫𝐚𝐛𝐲  
 CMD npm start
 # ("|⬡════════════════════════════════════════════════════════════|▷   ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋʀᴀᴋɪɴᴢʟᴀʙ™  ◁|════════════════════════════════════════════════════════════⬡|");
